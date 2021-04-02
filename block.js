@@ -1,4 +1,4 @@
-// SHA -256  Securitu Hash Algoritm - 256 bit / 32bytes = 32 characters
+// SHA -256  Security Hash Algoritm - 256 bit / 32bytes = 32 characters
 const SHA256 = require('crypto-js/sha256')
 
 class Block{
